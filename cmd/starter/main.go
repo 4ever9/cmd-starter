@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/urfave/cli/v2"
 	"os"
 	"time"
+
+	"github.com/urfave/cli/v2"
 )
 
 func main() {
@@ -22,5 +23,3 @@ func main() {
 		fmt.Println(err)
 	}
 }
-
-
