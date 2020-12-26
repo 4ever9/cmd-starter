@@ -1,5 +1,7 @@
 # Cmd Starter
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/4ever9/cmd-starter)](https://goreportcard.com/report/github.com/4ever9/cmd-starter)
+
 ## Usage
 
 ```bash
