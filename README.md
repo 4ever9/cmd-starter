@@ -1,5 +1,6 @@
 # Cmd Starter
 
+![build](https://github.com/4ever9/cmd-starter/workflows/build/badge.svg)
 [![Go Report Card](https://goreportcard.com/badge/github.com/4ever9/cmd-starter)](https://goreportcard.com/report/github.com/4ever9/cmd-starter)
 
 ## Usage
