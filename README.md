@@ -1,6 +1,7 @@
 # Cmd Starter
 
 ![build](https://github.com/4ever9/cmd-starter/workflows/build/badge.svg)
+[![codecov](https://codecov.io/gh/4ever9/cmd-starter/branch/main/graph/badge.svg?token=QKW75xNWym)](https://codecov.io/gh/4ever9/cmd-starter)
 [![Go Report Card](https://goreportcard.com/badge/github.com/4ever9/cmd-starter)](https://goreportcard.com/report/github.com/4ever9/cmd-starter)
 
 ## Usage
